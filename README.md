@@ -18,7 +18,7 @@ This system improves efficiency, reduces manual work, and enhances patient care 
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- HTML, CSS
+- HTML, CSS, TypeScript
 
 **Backend:**
 - Python / Flask / FastAPI
